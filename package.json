@@ -6,7 +6,7 @@
     "dev": "umi dev",
     "setup": "umi setup",
     "start": "npm run dev",
-    "start:prod": "node ./production-server.js"
+    "start:prod": "node ./api/production-server.js"
   },
   "dependencies": {
     "express": "4.17.3",
