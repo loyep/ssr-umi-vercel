@@ -19,7 +19,7 @@
         "src/.umi/*"
       ],
       "umi": [
-        "/Users/heixing/Git/umi/packages/umi"
+        "/Users/heixing/Git/ditejs/ssr-umi/node_modules/umi"
       ],
       "umi/typings": [
         "src/.umi/typings"
